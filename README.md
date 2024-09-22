@@ -1,10 +1,25 @@
 Tên dự án: Website thương mại điện tử quản lý chuỗi cửa hàng bán hoa.
 
 
-Công nghệ sử dụng: ASP.NET CORE API, HTML5, CSS, SQL Sever, Bootstrap5, .
+Số người tham gia: 2
 
 
-Đóng góp của bạn: Thiết kế và phát triển giao diện Admin, tạo các API quản lý đơn hàng và khách hàng, tích hợp hệ thống thanh toán trực tuyến.
+Công nghệ sử dụng: ASP.NET CORE API, HTML, CSS, Javascript, SQL Sever, Bootstrap5, BCrypt, LinQ, Jquery, VNPAY Payment Gateway, SignalR.
 
 
-Vấn đề giải quyết: Tự động hóa quy trình quản lý đơn hàng, theo dõi kho hàng, giúp giảm thời gian quản lý và tăng tính chính xác trong xử lý giao dịch.
+Đóng góp của tôi: Thiết kế và phát triển giao diện Admin. Tạo các API quản lý cửa hàng, khách hàng, kho, nguyên liệu, công thức, loại sản phẩm, sản phẩm, voucher, đơn hàng, tin tức, báo cáo thống kê. Mã hóa thông tin. Tích hợp hệ thống thanh toán trực tuyến.
+
+
+Vấn đề giải quyết: Tự động hóa quy trình quản lý đơn hàng, giúp doanh nghiệp theo dõi chính xác lượng hàng tồn kho theo thời gian thực, giảm thiểu sai sót trong việc xuất nhập hàng và tăng cường khả năng ra quyết định dựa trên dữ liệu, giúp cửa hàng tối ưu hóa quy trình quản lý đơn hàng, đồng bộ thông tin giữa cửa hàng và kho, từ đó tăng hiệu quả và giảm lỗi trong quá trình vận hành, giúp giảm thời gian quản lý và tăng tính chính xác trong xử lý giao dịch.
+
+
+Tài khoản đăng nhập test:
++ Công ty:
+    Username: admin
+    Password: 1
++ Cửa hàng:
+    Username: sto1
+    Password: 1
++ Khách hàng:
+    Username: ngocphuc
+    Password: 1 
