@@ -1,4 +1,4 @@
-Tên dự án: Website thương mại điện tử quản lý chuỗi cửa hàng bán hoa.
+Tên dự án: Website thương mại điện tử chuỗi cửa hàng bán hoa.
 
 
 Số người tham gia: 2
